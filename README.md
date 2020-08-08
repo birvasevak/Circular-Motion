@@ -1,4 +1,4 @@
-Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
+HTML5 Canvas displaying cirsular motion using ES6 and webpack.
 
 ## Getting Started
 
@@ -15,3 +15,5 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
         npm start
 
 Your canvas piece should open up automatically at http://localhost:3000 and you should see the demo.
+
+#### Design credits: Chris Courses
