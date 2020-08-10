@@ -11,7 +11,7 @@
     "dev": "webpack --config webpack.config.js",
     "start": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "react-scripts build",
+    "build": "webpack --config webpack.config.js",
     "eject": "react-scripts eject"
   },
   "keywords": [],
