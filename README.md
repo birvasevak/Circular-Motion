@@ -14,6 +14,10 @@ HTML5 Canvas displaying cirsular motion using ES6 and webpack.
 
         npm start
 
-Your canvas piece should open up automatically at http://localhost:3000 and you should see the demo.
+Your canvas piece should open up automatically at http://localhost:3000 or
 
-#### Design credits: Chris Courses
+visit the following for demo.
+
+https://birvasevak.github.io/Circular-Motion/
+
+###### Design credits: Chris Courses
