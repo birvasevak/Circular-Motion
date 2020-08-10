@@ -2,7 +2,7 @@
   "name": "canvas-template",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://birvasevak.github.io/Circular-Motion",
+  "homepage": "https://birvasevak.github.io/Circular-Motion/",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "dev": "webpack --config webpack.config.js",
     "start": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js",
+    "build": "webpack",
     "eject": "react-scripts eject"
   },
   "keywords": [],
